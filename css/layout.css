@@ -1,0 +1,7 @@
+@media (max-width: 640px) {
+  nav .nav-right .bell-icon,
+  nav .nav-right .gear-icon,
+  nav .nav-right .contact {
+    display: none;
+  }
+}
